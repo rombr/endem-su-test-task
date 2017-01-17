@@ -1,0 +1,15 @@
+---
+gmail:
+  server: smtp.gmail.com
+  port: 587
+  tls: yes
+
+yandex:
+  server: smtp.yandex.ru
+  port: 465
+  ssl: yes
+
+mail_ru:
+  server:  smtp.mail.ru
+  port: 465
+  ssl: yes
